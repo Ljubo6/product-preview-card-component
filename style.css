@@ -11,6 +11,7 @@
     --dark-cyan: hsl(158, 36%, 37%);
     --cream:  hsl(30, 38%, 92%);
     --deep-aquamarine: #3D8168;
+    --deep-aquamarine-hover: #1A4032;
     --aurometal-saurus:#6C7289;
     --gunmetal:#1C232B;
 
@@ -177,6 +178,9 @@ h1,h2,h3,h4,h5,h6{
     .perfume, .heading, .description, .btn{
         width: 236px;
     }
-
+    .btn:hover{
+        cursor: pointer;
+        background-color: var(--deep-aquamarine-hover);
+    }
 }
 
