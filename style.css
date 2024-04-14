@@ -104,14 +104,14 @@ h1,h2,h3,h4,h5,h6{
     color: var(--aurometal-saurus);
 }
 .heading-text{
-    line-height: 132%;
+    line-height: 100%;
     font-size: 32px;
     font-family: var(--frauncesFontFamily);
     font-weight: var(--fraunces-weight-bolder);
     color: var(--gunmetal);
 }
 .description-text{
-    line-height: 123%;
+    line-height: 160%;
     font-size: var(--fs-base);
     font-family: var(--montserratFontFamily);
     font-weight: var(--montserrat-weight-bold);
@@ -125,14 +125,12 @@ h1,h2,h3,h4,h5,h6{
     justify-content: space-between;
 }
 .discounted-price{
-    line-height: 132%;
     font-size: 32px;
     font-family: var(--frauncesFontFamily);
     font-weight: var(--fraunces-weight-bolder);
     color: var(--deep-aquamarine) ;
 }
 .total-price{
-    line-height: 123%;
     font-size: 13px;
     font-family: var(--montserratFontFamily);
     font-weight: var(--montserrat-weight-normal);
@@ -154,7 +152,7 @@ h1,h2,h3,h4,h5,h6{
     justify-content: center;
 }
 .btn svg{
-    margin-right: 8px;
+    margin-right: 10px;
 }
 
 /*media query*/
