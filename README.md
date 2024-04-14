@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/card-component-desktop.png)
-![](./images/card-component-desktop-hover.png)
+![](./images/card-componentn-desktop.png)
+![](./images/card-componentn-desktop-hover.png)
 ![](./images/card-component-mobile.png)
 
 
